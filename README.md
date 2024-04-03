@@ -1,4 +1,4 @@
-![bear_header](https://github.com/seohui242/seohui242/assets/117262212/d9271abb-649c-4058-b1c9-125bab09cfcb)
+![bear_header](https://github.com/seohui242/seohui242/assets/117262212/d18c9457-263c-4fa9-bd94-4aa146f1f0e3)
 <!--
 **seohui242/seohui242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
