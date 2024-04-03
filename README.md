@@ -6,7 +6,12 @@
   <a href="https://www.notion.so/SEOHUI-s-NOTION-218a96ecae67499c89d8b0af67505ab7" target="_blank"><img src="https://img.shields.io/badge/Notion-555555?style=flat&logo=notion&logoColor=white"/></a>
 </div>
 
-<hr></hr>
+<div align="center">
+  <h3 align="center">🩵LANGUAGES🩵</h3>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
+</div>
 
 <!--
 **seohui242/seohui242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
