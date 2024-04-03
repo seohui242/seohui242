@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![bear_header](https://github.com/seohui242/seohui242/assets/117262212/d9271abb-649c-4058-b1c9-125bab09cfcb)
 <!--
 **seohui242/seohui242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
