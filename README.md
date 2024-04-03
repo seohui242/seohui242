@@ -5,7 +5,8 @@
   <a href="https://www.instagram.com/242_seohui/" target="_blank"><img src="https://img.shields.io/badge/Instagram-F55281?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://www.notion.so/SEOHUI-s-NOTION-218a96ecae67499c89d8b0af67505ab7" target="_blank"><img src="https://img.shields.io/badge/Notion-555555?style=flat&logo=notion&logoColor=white"/></a>
 </div>
----
+
+<hr></hr>
 
 <!--
 **seohui242/seohui242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
