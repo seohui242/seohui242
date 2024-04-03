@@ -1,5 +1,5 @@
 ![bear_header](https://github.com/seohui242/seohui242/assets/117262212/d18c9457-263c-4fa9-bd94-4aa146f1f0e3)
-<a href="https://www.instagram.com/242_seohui/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/242_seohui/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 ---
 <!--
 **seohui242/seohui242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
