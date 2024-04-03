@@ -1,10 +1,10 @@
 ![bear_header](https://github.com/seohui242/seohui242/assets/117262212/d18c9457-263c-4fa9-bd94-4aa146f1f0e3)
 
-<p align="center">
-  <p align="center">🩵SNS🩵</p>
-  <a align="center" href="https://www.instagram.com/242_seohui/" target="_blank"><img src="https://img.shields.io/badge/Instagram-F55281?style=flat&logo=instagram&logoColor=white"/></a>
-  <a align="center" href="https://www.notion.so/SEOHUI-s-NOTION-218a96ecae67499c89d8b0af67505ab7" target="_blank"><img src="https://img.shields.io/badge/Notion-555555?style=flat&logo=notion&logoColor=white"/></a>
-</p>
+<div>
+  <h1 align="center">🩵SNS🩵</h1>
+  <a href="https://www.instagram.com/242_seohui/" target="_blank"><img src="https://img.shields.io/badge/Instagram-F55281?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.notion.so/SEOHUI-s-NOTION-218a96ecae67499c89d8b0af67505ab7" target="_blank"><img src="https://img.shields.io/badge/Notion-555555?style=flat&logo=notion&logoColor=white"/></a>
+</div>
 
 ---
 <!--
